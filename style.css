@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+
+body{
+    margin: 0;
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    background: rgb(95, 95, 95);
+}
+
+header > .nickname{
+    font-family: 'Luckiest Guy', cursive;
+    padding: 0 0 0 50px;
+    line-height: 100px;
+    font-size: 75px;
+    color: rgb(224, 94, 8);
+}
+
+
+header > .shape1 {
+    width: 50px;
+    height: 100px;
+    transform: skew(20deg);
+    background: rgb(224, 94, 8);
+    float: right;
+    margin-right: 50px;
+}

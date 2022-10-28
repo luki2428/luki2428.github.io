@@ -5,9 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>UwU</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Hello World!</h1>
-    <img src="img/35be79f76cd2915fac4f4ed5b920507b.png" alt="I Love her">
+    <header>
+        <text class="nickname">luki2428</text>
+        <div class="shape1"></div>
+        <div class="shape1"></div>
+        <div class="shape1"></div>
+    </header>   
 </body>
 </html>
